@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif; margin:0;
+}
+h1{
+    font-size: 50px;
+}
+.align{
+    text-align:center; font-size:40px;
+}
+.name-highlight{
+    color:rgb(197, 23, 133);
+}
+.half-width{
+    width:40%; float:left; margin-left:4%; padding-left:3%;
+}
+.image-sizzing{
+    float: left;
+    width: 25%;
+    margin-left:3%; padding-left:2%;
+}
+
+div img{
+    width:100%;
+}
+.header{
+    background-image:url("images/header-bg.png"); background-position:center;
+    
+}
+.biography{
+    background-image:url("images/biography-bg.png");
+}
+.latest-work{
+    background-image:url("images/latest-work-bg.png"); background-position:center; 
+}
+.one-style{
+    height:500px; padding-top:50px; padding-bottom:200px;
+}
+#two-style{
+    height:500px; padding-top:50px; padding-bottom:100px;
+}
+.button{
+    text-decoration:none; background-image:linear-gradient(80deg,tomato,mediumvioletred); padding:10px 30px; border-radius:5px; color:white;
+}
+.button-2{
+    text-decoration:none; background-image:linear-gradient(45deg,magenta,#FF0080); padding:10px 30px; border-radius:5px; color:white;
+}
+.text-align{
+    padding-top:100px;
+}
+#text-center{
+    text-align:center;
+}
+#box{
+    text-align:center;
+     padding:1% 3%; margin:10% 30%; background-color:#FF0080; color:white; border-radius:5px;
+}
+#contact{
+    background-image:url("images/footer-bg.png"); background-position:center;
+         }
+#footer{
+    text-align:center;
+}
